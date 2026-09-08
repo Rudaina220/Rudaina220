@@ -114,8 +114,6 @@ $ git log --oneline --graph --decorate
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudaina220&theme=react-dark&bg_color=13191F&color=CA9C68&line=CA9C68&point=906D4B&area=true&area_color=594C3D&hide_border=true" width="90%"/>
-
 </div>
 
 <br/>
