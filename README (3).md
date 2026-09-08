@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Welcome%20to%20Rudaina's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E&descAlignY=60&descSize=18" width="100%"/>
-
 <a href="https://www.linkedin.com/in/rudaina-haitham-72b029264/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Rudaina220"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:rudainahaitham871@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,7 +8,7 @@
 
 <br/>
 
-## About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/artist-palette_1f3a8.png" width="28"/> About Me
 
 Hi there! I'm **Rudaina** — a Data Science & Artificial Intelligence student at the Faculty of Computational Science and Artificial Intelligence, **Zewail City of Science and Technology**, graduating in 2027. I like turning research-y ideas into working systems: assistive AI, generative models, and full-stack products with a clean, intentional design sense.
 
