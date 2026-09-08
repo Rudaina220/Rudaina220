@@ -1,147 +1,112 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13191F,50:2B2F2E,100:13191F&height=220&section=header&text=Rudaina%20Haitham&fontSize=46&fontColor=CA9C68&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%E2%80%94%20Building%20Intelligent%20Systems&descAlignY=58&descAlign=50&descColor=906D4B" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=CA9C68&center=true&vCenter=true&width=600&lines=Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Assistive+AI+%E2%80%A2+Generative+Models;Full-Stack+Products+with+Intentional+Design" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rudaina-haitham-72b029264/"><img src="https://img.shields.io/badge/LinkedIn-13191F?style=flat-square&logo=linkedin&logoColor=CA9C68&labelColor=13191F" /></a>
-<a href="https://github.com/Rudaina220"><img src="https://img.shields.io/badge/GitHub-13191F?style=flat-square&logo=github&logoColor=CA9C68&labelColor=13191F" /></a>
-<a href="mailto:rudainahaitham871@gmail.com"><img src="https://img.shields.io/badge/Email-13191F?style=flat-square&logo=gmail&logoColor=CA9C68&labelColor=13191F" /></a>
-
+  <img src="./banner.svg" width="100%" alt="banner"/>
 </div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-About_Me-2B2F2E?style=flat-square&labelColor=13191F&color=CA9C68"/>
-
-Hi there! I'm **Rudaina** — a Data Science & Artificial Intelligence student at the Faculty of Computational Science and Artificial Intelligence, **Zewail City of Science and Technology**, graduating in 2027. I like turning research-y ideas into working systems: assistive AI, generative models, and full-stack products with a clean, intentional design sense.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🎓&nbsp;&nbsp;Studying Data Science & AI at Zewail City of Science and Technology
-<br/><br/>
-🧠&nbsp;&nbsp;Building intelligent systems across Computer Vision, NLP, and Reinforcement Learning
-<br/><br/>
-🦾&nbsp;&nbsp;Finished **VisionX** — an AI-powered assistive system for visually impaired users
-
-</td>
-<td width="50%" valign="top">
-
-🧤&nbsp;&nbsp;Also finished **Flexo** — a smart glove for gesture recognition and assistive communication
-<br/><br/>
-🏆&nbsp;&nbsp;Interests: Artificial Intelligence & Emerging Tech, Competitive Programming, MLOps
-<br/><br/>
-📫&nbsp;&nbsp;Reach me at **rudainahaitham871@gmail.com**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-Technologies-2B2F2E?style=flat-square&labelColor=13191F&color=CA9C68"/>
 
 <div align="center">
 
-<sub>**LANGUAGES**</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=CA9C68&center=true&vCenter=true&width=650&lines=Computer+Vision+%C2%B7+NLP+%C2%B7+Reinforcement+Learning;Assistive+AI+%C2%B7+Generative+Models;Full-Stack+Products+with+Intentional+Design" alt="typing" />
+
 <br/>
-<img src="https://img.shields.io/badge/Python-13191F?style=flat-square&logo=python&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/C%2B%2B-13191F?style=flat-square&logo=cplusplus&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/C%23-13191F?style=flat-square&logo=csharp&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/JavaScript-13191F?style=flat-square&logo=javascript&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/SQL-13191F?style=flat-square&logo=postgresql&logoColor=CA9C68&labelColor=13191F" />
 
-<br/><br/>
-
-<sub>**AI / ML / DATA**</sub>
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-13191F?style=flat-square&logo=pytorch&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/TensorFlow-13191F?style=flat-square&logo=tensorflow&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/OpenCV-13191F?style=flat-square&logo=opencv&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/YOLO-13191F?style=flat-square&logo=yolo&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/Pandas-13191F?style=flat-square&logo=pandas&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/NumPy-13191F?style=flat-square&logo=numpy&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/scikit--learn-13191F?style=flat-square&logo=scikitlearn&logoColor=CA9C68&labelColor=13191F" />
-
-<br/><br/>
-
-<sub>**MOBILE & WEB**</sub>
-<br/>
-<img src="https://img.shields.io/badge/Flutter-13191F?style=flat-square&logo=flutter&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/React-13191F?style=flat-square&logo=react&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/Flask-13191F?style=flat-square&logo=flask&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-13191F?style=flat-square&logo=dotnet&logoColor=CA9C68&labelColor=13191F" />
-
-<br/><br/>
-
-<sub>**MLOPS & TOOLS**</sub>
-<br/>
-<img src="https://img.shields.io/badge/Docker-13191F?style=flat-square&logo=docker&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/Git-13191F?style=flat-square&logo=git&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/MLflow-13191F?style=flat-square&logo=mlflow&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/DVC-13191F?style=flat-square&logo=dvc&logoColor=CA9C68&labelColor=13191F" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-13191F?style=flat-square&logo=githubactions&logoColor=CA9C68&labelColor=13191F" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-13191F?style=for-the-badge&logo=linkedin&logoColor=CA9C68)](https://www.linkedin.com/in/rudaina-haitham-72b029264/)
+[![GitHub](https://img.shields.io/badge/-GitHub-13191F?style=for-the-badge&logo=github&logoColor=CA9C68)](https://github.com/Rudaina220)
+[![Email](https://img.shields.io/badge/-Email-13191F?style=for-the-badge&logo=gmail&logoColor=CA9C68)](mailto:rudainahaitham871@gmail.com)
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-Featured_Projects-2B2F2E?style=flat-square&labelColor=13191F&color=CA9C68"/>
+```bash
+$ whoami
+```
+```
+> Rudaina Haitham
+> Data Science & AI student — Zewail City of Science and Technology (Class of 2027)
+> Focus: Computer Vision · NLP · Reinforcement Learning
+> Shipped: VisionX (assistive AI) · Flexo (smart glove)
+> Interests: AI & Emerging Tech · Competitive Programming · MLOps
+> Contact: rudainahaitham871@gmail.com
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦯 VisionX
-AI-powered assistive system for visually impaired users — object detection, OCR, currency recognition, navigation, speech-to-text/text-to-speech, built with Flutter, TensorFlow Lite, YOLO & OpenCV
-
-</td>
-<td width="50%" valign="top">
-
-### 🧤 Flexo
-Smart glove for gesture recognition & assistive communication — Arduino, flex sensors, Bluetooth, real-time ML gesture classification via a Flutter app
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩻 Multi-Modal Chest X-Ray Intelligence System
-Multi-modal medical AI for chest X-ray report generation & clinical QA, integrating MedGemma and ColPali retrieval in a RAG workflow
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 Conditional Data Generation
-CGAN, TabularGAN, WGAN-GP & CVAE compared for condition-aware generation with adversarial training & latent-space modeling
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ MLOps Pipeline Automation & CI/CD
-GitHub Actions pipelines automating ML validation, testing & deployment with MLflow tracking, DVC versioning & Docker
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 AI Chatbot
-Interactive chatbot built on Gemma3:1B with GUI and voice interaction
-
-</td>
-</tr>
-</table>
+Hi there! I'm Rudaina — a Data Science & Artificial Intelligence student at the
+Faculty of Computational Science and Artificial Intelligence, Zewail City of
+Science and Technology, graduating in 2027. I like turning research-y ideas
+into working systems: assistive AI, generative models, and full-stack products
+with a clean, intentional design sense.
+```
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-GitHub_Activity-2B2F2E?style=flat-square&labelColor=13191F&color=CA9C68"/>
+## 🌲 stack
+
+<div align="center">
+
+**languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,postgres&theme=dark" />
+
+<br/><br/>
+
+**ai / ml / data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/YOLO-13191F?style=flat-square&logo=yolo&logoColor=CA9C68&labelColor=13191F" height="48"/>
+<img src="https://img.shields.io/badge/Pandas-13191F?style=flat-square&logo=pandas&logoColor=CA9C68&labelColor=13191F" height="48"/>
+<img src="https://img.shields.io/badge/NumPy-13191F?style=flat-square&logo=numpy&logoColor=CA9C68&labelColor=13191F" height="48"/>
+
+<br/><br/>
+
+**mobile & web**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,flask,dotnet&theme=dark" />
+
+<br/><br/>
+
+**mlops & tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" />
+<img src="https://img.shields.io/badge/MLflow-13191F?style=flat-square&logo=mlflow&logoColor=CA9C68&labelColor=13191F" height="48"/>
+<img src="https://img.shields.io/badge/DVC-13191F?style=flat-square&logo=dvc&logoColor=CA9C68&labelColor=13191F" height="48"/>
+
+</div>
+
+<br/>
+
+## 🪵 log --projects
+
+```bash
+$ git log --oneline --graph --decorate
+```
+```
+*  a1b2c3d  (HEAD -> main)  VisionX
+|           AI-powered assistive system for visually impaired users — object
+|           detection, OCR, currency recognition, navigation, speech-to-text /
+|           text-to-speech. Built with Flutter, TensorFlow Lite, YOLO & OpenCV.
+|
+*  d4e5f6a  Flexo
+|           Smart glove for gesture recognition & assistive communication —
+|           Arduino, flex sensors, Bluetooth, real-time ML gesture
+|           classification via a Flutter app.
+|
+*  7g8h9i0  Multi-Modal Chest X-Ray Intelligence System
+|           Multi-modal medical AI for chest X-ray report generation & clinical
+|           QA, integrating MedGemma and ColPali retrieval in a RAG workflow.
+|
+*  j1k2l3m  Conditional Data Generation
+|           CGAN, TabularGAN, WGAN-GP & CVAE compared for condition-aware
+|           generation with adversarial training & latent-space modeling.
+|
+*  n4o5p6q  MLOps Pipeline Automation & CI/CD
+|           GitHub Actions pipelines automating ML validation, testing &
+|           deployment with MLflow tracking, DVC versioning & Docker.
+|
+*  r7s8t9u  AI Chatbot
+            Interactive chatbot built on Gemma3:1B with GUI and voice
+            interaction.
+```
+
+<br/>
+
+## 🔥 activity
 
 <div align="center">
 
@@ -152,10 +117,18 @@ Interactive chatbot built on Gemma3:1B with GUI and voice interaction
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudaina220&theme=transparent&hide_border=true&background=13191F&stroke=594C3D&ring=CA9C68&fire=CA9C68&currStreakLabel=CA9C68&sideLabels=906D4B&currStreakNum=CA9C68&sideNums=906D4B&dates=594C3D" width="65%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudaina220&theme=react-dark&bg_color=13191F&color=CA9C68&line=CA9C68&point=906D4B&area=true&area_color=594C3D&hide_border=true" width="90%"/>
+
 </div>
 
 <br/>
 
+```bash
+$ echo "thanks for stopping by"
+```
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13191F,50:2B2F2E,100:13191F&height=100&section=footer" width="100%"/>
+<sub>built with 🍂 and a lot of iced coffee</sub>
 </div>
