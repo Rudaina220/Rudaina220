@@ -75,19 +75,6 @@ Hi there! I'm **Rudaina** — a Data Science & Artificial Intelligence student a
 
 <br/>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" width="28"/> Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rudaina220&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="98%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 </div>
