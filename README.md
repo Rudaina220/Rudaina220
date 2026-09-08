@@ -113,14 +113,6 @@ $ git log --oneline --graph --decorate
 <img src="https://github-readme-stats.vercel.app/api?username=Rudaina220&show_icons=true&theme=transparent&hide_border=true&bg_color=13191F&title_color=CA9C68&text_color=906D4B&icon_color=CA9C68" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudaina220&layout=compact&theme=transparent&hide_border=true&bg_color=13191F&title_color=CA9C68&text_color=906D4B" width="48%"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudaina220&theme=transparent&hide_border=true&background=13191F&stroke=594C3D&ring=CA9C68&fire=CA9C68&currStreakLabel=CA9C68&sideLabels=906D4B&currStreakNum=CA9C68&sideNums=906D4B&dates=594C3D" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudaina220&theme=react-dark&bg_color=13191F&color=CA9C68&line=CA9C68&point=906D4B&area=true&area_color=594C3D&hide_border=true" width="90%"/>
-
 </div>
 
 <br/>
