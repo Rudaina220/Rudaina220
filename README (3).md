@@ -2,23 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Welcome%20to%20Rudaina's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rudaina-haitham-72b029264/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Rudaina220"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:rudainahaitham871@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/artist-palette_1f3a8.png" width="28"/> About Me
+## About Me
 
 Hi there! I'm **Rudaina** — a Data Science & Artificial Intelligence student at the Faculty of Computational Science and Artificial Intelligence, **Zewail City of Science and Technology**, graduating in 2027. I like turning research-y ideas into working systems: assistive AI, generative models, and full-stack products with a clean, intentional design sense.
 
 - 🎓 Studying Data Science & AI at Zewail City of Science and Technology
 - 🧠 Building intelligent systems across Computer Vision, NLP, and Reinforcement Learning
-- 🦾 Currently working on **VisionX** — an AI-powered assistive system for visually impaired users
-- 🧤 Also building **Flexo** — a smart glove for gesture recognition and assistive communication
+- 🦾 Finished **VisionX** — an AI-powered assistive system for visually impaired users
+- 🧤 Also finished **Flexo** — a smart glove for gesture recognition and assistive communication
 - 🏆 Interests: Artificial Intelligence & Emerging Tech, Competitive Programming, MLOps
 - 📫 Reach me at **rudainahaitham871@gmail.com**
 
@@ -82,7 +81,7 @@ Hi there! I'm **Rudaina** — a Data Science & Artificial Intelligence student a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rudaina220&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="98%"/>
