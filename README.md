@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:C147E9,100:5F27CD&height=260&section=header&text=RUDAINA%20EHAITHAM&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=DATA%20SCIENCE%20%2B%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=18&descColor=FFFFFF&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:C147E9,100:5F27CD&height=260&section=header&text=RUDAINA%20HAITHAM&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=DATA%20SCIENCE%20%2B%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=18&descColor=FFFFFF&animation=twinkling"/>
 
 <br/>
 
