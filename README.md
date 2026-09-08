@@ -124,7 +124,7 @@ Smart glove for gesture recognition and assistive communication using **Arduino*
 <div align="center">
 
 <a href="https://github.com/Rudaina220" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=C9A227" /></a>
-<a href="www.linkedin.com/in/rudaina-haitham-72b029264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=C9A227" /></a>
+<a href="https://www.linkedin.com/in/rudaina-haitham-72b029264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=C9A227" /></a>
 <a href="mailto:rudainahaitham871@gmail.com"><img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=C9A227" /></a>
 
 </div>
