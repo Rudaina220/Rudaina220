@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Rudaina%20Haitham&fontColor=ffffff&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Rudaina%20Haitham&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20LLMs%20%7C%20AI%20Agents%20%7C%20Computer%20Vision&descAlignY=55&descSize=16&animation=fadeIn"
+  width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLMs+%7C+AI+Agents;Computer+Vision+%7C+NLP+%7C+MLOps;Building+Intelligent+End-to-End+Systems" alt="Typing SVG" />
 
