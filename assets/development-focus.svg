@@ -1,0 +1,42 @@
+<svg width="1260" height="240" viewBox="0 0 1260 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1260" y2="240">
+    <stop stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#161B22"/>
+  </linearGradient>
+  <linearGradient id="line" x1="80" y1="0" x2="1180" y2="0">
+    <stop stop-color="#30363D"/>
+    <stop offset="0.5" stop-color="#8B949E"/>
+    <stop offset="1" stop-color="#30363D"/>
+  </linearGradient>
+</defs>
+<rect width="1260" height="240" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1258" height="238" rx="17" stroke="#30363D"/>
+
+<text x="44" y="52" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Development Focus</text>
+<text x="44" y="80" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">WHAT I'M BUILDING AND LEARNING</text>
+
+<g stroke="#30363D" stroke-width="1">
+  <line x1="80" y1="190" x2="1180" y2="190"/>
+  <line x1="80" y1="155" x2="1180" y2="155"/>
+  <line x1="80" y1="120" x2="1180" y2="120"/>
+</g>
+
+<polyline points="80,176 170,164 260,169 350,142 440,150 530,130 620,136 710,111 800,121 890,98 980,108 1070,88 1180,74"
+          fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g fill="#F0F6FC">
+  <circle cx="350" cy="142" r="5"/>
+  <circle cx="710" cy="111" r="5"/>
+  <circle cx="1070" cy="88" r="5"/>
+  <circle cx="1180" cy="74" r="5"/>
+</g>
+
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#C9D1D9">
+  <text x="80" y="220">LLMs</text>
+  <text x="320" y="220">AI Agents</text>
+  <text x="575" y="220">Computer Vision</text>
+  <text x="860" y="220">MLOps</text>
+  <text x="1080" y="220">Full-Stack AI</text>
+</g>
+</svg>

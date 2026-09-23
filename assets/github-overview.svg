@@ -1,0 +1,16 @@
+<svg width="620" height="210" viewBox="0 0 620 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="620" y2="210">
+    <stop stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#161B22"/>
+  </linearGradient>
+</defs>
+<rect width="620" height="210" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="618" height="208" rx="17" stroke="#30363D"/>
+<circle cx="42" cy="42" r="8" fill="#8B949E"/>
+<text x="66" y="49" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GitHub Overview</text>
+<text x="38" y="92" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">PROFILE</text>
+<text x="38" y="118" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">@Rudaina220</text>
+<text x="38" y="154" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="16">AI • Data Science • Full-Stack AI</text>
+<text x="38" y="180" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">Building intelligent systems from models to deployment.</text>
+</svg>
