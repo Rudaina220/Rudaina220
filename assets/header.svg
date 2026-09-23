@@ -1,0 +1,54 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#21262D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="250" y1="0" x2="950" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30363D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8B949E"/>
+      <stop offset="1" stop-color="#30363D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+
+  <circle cx="85" cy="55" r="4" fill="#8B949E" opacity="0.75"/>
+  <circle cx="1110" cy="70" r="3" fill="#8B949E" opacity="0.55"/>
+  <circle cx="1050" cy="190" r="4" fill="#8B949E" opacity="0.40"/>
+  <circle cx="150" cy="205" r="3" fill="#8B949E" opacity="0.45"/>
+
+  <text x="600" y="102"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="52"
+        font-weight="700"
+        fill="#F0F6FC">
+    Rudaina Haitham
+  </text>
+
+  <rect x="310" y="125" width="580" height="2" rx="1" fill="url(#line)"/>
+
+  <text x="600" y="165"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21"
+        font-weight="500"
+        letter-spacing="1"
+        fill="#C9D1D9">
+    AI &amp; Data Science Engineer
+  </text>
+
+  <text x="600" y="201"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        letter-spacing="0.8"
+        fill="#8B949E">
+    LLMs • AI Agents • Computer Vision • MLOps
+  </text>
+
+  <path d="M0 232C160 210 290 252 455 235C640 216 760 198 920 218C1030 232 1110 247 1200 236V260H0V232Z"
+        fill="#0D1117" opacity="0.95"/>
+</svg>
