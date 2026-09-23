@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Rudaina%20Haitham&fontColor=ffffff&fontSize=45" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLMs+%26+AI+Agents;Computer+Vision+%26+MLOps&center=true&width=500&height=50&color=FFFFFF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=F0F6FC&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLMs+%7C+AI+Agents;Computer+Vision+%7C+NLP+%7C+MLOps;Building+Intelligent+End-to-End+Systems" alt="Typing SVG" />
 
 <br/>
 
