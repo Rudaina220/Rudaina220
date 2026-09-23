@@ -211,13 +211,12 @@ NLP Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rudaina220&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudaina220&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9"/>
+<img src="./assets/github-overview.svg" width="49%" alt="GitHub Overview"/>
+<img src="./assets/core-stack.svg" width="49%" alt="Core Stack"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rudaina220&bg_color=0d1117&color=c9d1d9&line=8b949e&point=f0f6fc&area=true&hide_border=true"/>
+<img src="./assets/development-focus.svg" width="98%" alt="Development Focus"/>
 
 </div>
 
